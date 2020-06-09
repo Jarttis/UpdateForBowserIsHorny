@@ -1,4 +1,4 @@
 
 <Version: 1.01>
-/data/TSAR_BOMB_Nuclear_explosion_HD.mp4 https://github.com/Jarttis/UpdateForBowserIsHorny/blob/master/TSAR_BOMB_Nuclear_explosion_HD.mp4?raw=true
+
 <End Of Version>
